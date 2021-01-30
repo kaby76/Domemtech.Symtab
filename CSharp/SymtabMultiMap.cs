@@ -2,7 +2,7 @@
 using System.Collections;
 using System.Collections.Generic;
 
-namespace Symtab
+namespace Domemtech.Symtab
 {
     /// <summary>
     /// Represents a collection of keys and values.

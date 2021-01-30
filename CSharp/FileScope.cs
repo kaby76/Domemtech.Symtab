@@ -1,4 +1,4 @@
-﻿namespace Symtab
+﻿namespace Domemtech.Symtab
 {
     public class FileScope : BaseScope
     {

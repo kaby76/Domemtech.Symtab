@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace Symtab
+namespace Domemtech.Symtab
 {
     public class SymtabArrayList<T> : List<T>
 	{

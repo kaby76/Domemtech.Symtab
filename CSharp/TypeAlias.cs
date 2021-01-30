@@ -1,4 +1,4 @@
-﻿namespace Symtab
+﻿namespace Domemtech.Symtab
 {
     using Antlr4.Runtime;
     using System.Collections.Generic;
