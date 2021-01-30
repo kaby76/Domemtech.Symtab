@@ -1,9 +1,0 @@
-C:\Users\kenne\Documents\GitHub\Symtab\CSharp\bin\Debug\netstandard2.0\Symtab.deps.json
-C:\Users\kenne\Documents\GitHub\Symtab\CSharp\bin\Debug\netstandard2.0\Symtab.dll
-C:\Users\kenne\Documents\GitHub\Symtab\CSharp\bin\Debug\netstandard2.0\Symtab.pdb
-C:\Users\kenne\Documents\GitHub\Symtab\CSharp\obj\Debug\netstandard2.0\Symtab.csprojAssemblyReference.cache
-C:\Users\kenne\Documents\GitHub\Symtab\CSharp\obj\Debug\netstandard2.0\Symtab.AssemblyInfoInputs.cache
-C:\Users\kenne\Documents\GitHub\Symtab\CSharp\obj\Debug\netstandard2.0\Symtab.AssemblyInfo.cs
-C:\Users\kenne\Documents\GitHub\Symtab\CSharp\obj\Debug\netstandard2.0\Symtab.csproj.CoreCompileInputs.cache
-C:\Users\kenne\Documents\GitHub\Symtab\CSharp\obj\Debug\netstandard2.0\Symtab.dll
-C:\Users\kenne\Documents\GitHub\Symtab\CSharp\obj\Debug\netstandard2.0\Symtab.pdb
