@@ -1,0 +1,130 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Domemtech.Symtab.BaseScope" Collapsed="true">
+    <Position X="16.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAgwMgAwBBQQAAEAAAAQCQCIAAAAAAAAAAGABIAAgA=</HashCode>
+      <FileName>BaseScope.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Domemtech.Symtab.ClassSymbol" Collapsed="true">
+    <Position X="22.25" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgEgAUAAIAAAAABCAABAAAAAEDIEAAgEg=</HashCode>
+      <FileName>ClassSymbol.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Domemtech.Symtab.DataAggregateSymbol" Collapsed="true">
+    <Position X="20" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAACBAQCAQAQAAAEEABAAABAAAAAAGAAAAoAA=</HashCode>
+      <FileName>DataAggregateSymbol.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Domemtech.Symtab.DirectoryScope" Collapsed="true">
+    <Position X="20.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DirectoryScope.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Domemtech.Symtab.EnumSymbol" Collapsed="true">
+    <Position X="11" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>EnumSymbol.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Domemtech.Symtab.FileScope" Collapsed="true">
+    <Position X="9.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>FileScope.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Domemtech.Symtab.FunctionSymbol" Collapsed="true">
+    <Position X="15.5" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAACAEAAAAIAAAAAAAAAAAASAAIAAAIAA=</HashCode>
+      <FileName>FunctionSymbol.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Domemtech.Symtab.GlobalScope" Collapsed="true">
+    <Position X="18.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GlobalScope.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Domemtech.Symtab.InterfaceSymbol" Collapsed="true">
+    <Position X="17.75" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgEgAUAAIAAAAABCAABAAAAAEDIEAAgEg=</HashCode>
+      <FileName>InterfaceSymbol.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Domemtech.Symtab.Literal" Collapsed="true">
+    <Position X="13.25" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>Literal.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Domemtech.Symtab.LocalScope" Collapsed="true">
+    <Position X="12" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>LocalScope.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Domemtech.Symtab.MethodSymbol" Collapsed="true">
+    <Position X="15.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAACAAAAAAA=</HashCode>
+      <FileName>MethodSymbol.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Domemtech.Symtab.NamespaceScope" Collapsed="true">
+    <Position X="23" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>NamespaceScope.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Domemtech.Symtab.PredefinedScope" Collapsed="true">
+    <Position X="14.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PredefinedScope.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Domemtech.Symtab.SearchPathScope" Collapsed="true">
+    <Position X="25.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SearchPathScope.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Domemtech.Symtab.StructSymbol" Collapsed="true">
+    <Position X="20" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>StructSymbol.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Domemtech.Symtab.SymbolWithScope" Collapsed="true">
+    <Position X="16.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAQAAAQABACCACgAAAAQQIAAAAAIAABAAAAAABAAA=</HashCode>
+      <FileName>SymbolWithScope.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
